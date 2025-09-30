@@ -2,21 +2,22 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
+# 中文（默认语言）
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 李若冲的个人简历
+  languageName: 中文
+  weight: 1
+  params:
+    description: 产品开发者 + 算法工程师
+
+# English
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  contentDir: content/en
+  title: Ruochong Li (Arno) - Resume
+  languageName: English
+  weight: 2
+  params:
+    description: Product Creator + Algorithm Engineer
