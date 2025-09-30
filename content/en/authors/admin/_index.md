@@ -33,6 +33,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/Ruochong-LI
     label: GitHub
+  - icon: brands/weixin
+    url: /uploads/wechat-qr.jpg
+    label: WeChat
 
 education:
   - area: MPhil in Artificial Intelligence
