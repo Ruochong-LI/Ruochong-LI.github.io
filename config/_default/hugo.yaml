@@ -10,7 +10,7 @@ baseURL: 'https://ruochong-li.github.io/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true

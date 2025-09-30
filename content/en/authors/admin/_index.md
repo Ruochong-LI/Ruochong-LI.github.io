@@ -126,3 +126,5 @@ awards:
 ---
 
 Striving to create more valuable products for people, making everyone's life easier and happier.
+
+📧 Email: rclihkust@gmail.com

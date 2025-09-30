@@ -37,16 +37,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
-    content:
-      title: 技能与爱好
-      username: admin
-  - block: awards
-    content:
-      title: 奖项与证书
-      username: admin
-  - block: languages
-    content:
-      title: 语言能力
-      username: admin
+  # - block: skills
+  #   content:
+  #     title: 技能与爱好
+  #     username: admin
+  # - block: awards
+  #   content:
+  #     title: 奖项与证书
+  #     username: admin
+  # - block: languages
+  #   content:
+  #     title: 语言能力
+  #     username: admin
 ---
