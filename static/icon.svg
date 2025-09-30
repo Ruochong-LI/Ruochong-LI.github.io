@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 卡皮巴拉身体 -->
+  <ellipse cx="50" cy="60" rx="35" ry="28" fill="#8B7355"/>
+  
+  <!-- 卡皮巴拉头部 -->
+  <ellipse cx="50" cy="35" rx="28" ry="25" fill="#8B7355"/>
+  
+  <!-- 耳朵 -->
+  <ellipse cx="35" cy="22" rx="8" ry="10" fill="#6B5345"/>
+  <ellipse cx="65" cy="22" rx="8" ry="10" fill="#6B5345"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="42" cy="32" r="4" fill="#2C1810"/>
+  <circle cx="58" cy="32" r="4" fill="#2C1810"/>
+  <circle cx="43" cy="31" r="1.5" fill="white"/>
+  <circle cx="59" cy="31" r="1.5" fill="white"/>
+  
+  <!-- 鼻子 -->
+  <ellipse cx="50" cy="42" rx="6" ry="4" fill="#5D4A3A"/>
+  
+  <!-- 嘴巴 -->
+  <path d="M 50 42 Q 45 48 40 46" stroke="#2C1810" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 50 42 Q 55 48 60 46" stroke="#2C1810" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- 腿 -->
+  <rect x="30" y="75" width="10" height="12" rx="3" fill="#6B5345"/>
+  <rect x="60" y="75" width="10" height="12" rx="3" fill="#6B5345"/>
+  
+  <!-- 可爱的腮红 -->
+  <ellipse cx="30" cy="40" rx="5" ry="3" fill="#D2691E" opacity="0.4"/>
+  <ellipse cx="70" cy="40" rx="5" ry="3" fill="#D2691E" opacity="0.4"/>
+</svg>
