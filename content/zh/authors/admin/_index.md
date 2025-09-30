@@ -33,6 +33,12 @@ profiles:
   - icon: brands/github
     url: https://github.com/Ruochong-LI
     label: GitHub
+  - icon: academicons/arxiv
+    url: https://arxiv.org/abs/2509.23829
+    label: DexFlyWheel
+  - icon: academicons/google-scholar
+    url: https://dexgraspvla.github.io/
+    label: DexGraspVLA
   - icon: brands/weixin
     url: /uploads/wechat-qr.jpg
     label: 微信
