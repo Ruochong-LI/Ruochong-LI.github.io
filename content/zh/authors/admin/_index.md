@@ -34,7 +34,7 @@ profiles:
     url: https://github.com/Ruochong-LI
     label: GitHub
   - icon: brands/weixin
-    url: /uploads/wechat-qr.jpg
+    url: https://ruochong-li.github.io/uploads/wechat-qr.jpg
     label: 微信
 
 education:
