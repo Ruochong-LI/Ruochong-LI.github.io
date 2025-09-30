@@ -33,23 +33,17 @@ profiles:
   - icon: brands/github
     url: https://github.com/Ruochong-LI
     label: GitHub
-  - icon: academicons/arxiv
-    url: https://arxiv.org/abs/2509.23829
-    label: DexFlyWheel
-  - icon: academicons/google-scholar
-    url: https://dexgraspvla.github.io/
-    label: DexGraspVLA
   - icon: brands/weixin
     url: /uploads/wechat-qr.jpg
     label: 微信
 
 education:
-  - area: 人工智能 MPhil（硕士研究生）
+  - area: 人工智能 MPhil
     institution: 香港科技大学（广州）
     date_start: 2023-09-01
     date_end: 2025-06-30
     summary: |
-      导师：Prof. Hui XIONG
+      导师：[Prof. Hui XIONG](https://www.hkust-gz.edu.cn/people/hui-xiong/)
       
       研究方向：
       - 人工智能
@@ -67,15 +61,13 @@ work:
     company_name: 灵初智能（PsiBot）
     company_url: 'https://www.psibot.com/'
     company_logo: ''
-    date_start: 2024-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |
       为通向具身AGI而努力奋斗
       
       工作内容：
-      - 开发具身智能相关算法
-      - 产品创新与研发
-      - 推动AGI技术落地应用
+      - 遥操作项目产品创新与研发
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

@@ -33,12 +33,6 @@ profiles:
   - icon: brands/github
     url: https://github.com/Ruochong-LI
     label: GitHub
-  - icon: academicons/arxiv
-    url: https://arxiv.org/abs/2509.23829
-    label: DexFlyWheel
-  - icon: academicons/google-scholar
-    url: https://dexgraspvla.github.io/
-    label: DexGraspVLA
   - icon: brands/weixin
     url: /uploads/wechat-qr.jpg
     label: WeChat
@@ -49,7 +43,7 @@ education:
     date_start: 2023-09-01
     date_end: 2025-06-30
     summary: |
-      Supervised by Prof. Hui XIONG
+      Supervised by [Prof. Hui XIONG](https://www.hkust-gz.edu.cn/people/hui-xiong/)
       
       Research Areas:
       - Artificial Intelligence
@@ -67,15 +61,13 @@ work:
     company_name: PsiBot (灵初智能)
     company_url: 'https://www.psibot.com/'
     company_logo: ''
-    date_start: 2024-01-01
+    date_start: 2024-10-01
     date_end: ''
     summary: |
       Striving towards Embodied AGI
       
       Responsibilities:
-      - Developing embodied intelligence algorithms
-      - Product innovation and R&D
-      - Promoting AGI technology applications
+      - Teleoperation project product innovation and R&D
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
